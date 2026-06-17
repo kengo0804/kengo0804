@@ -36,9 +36,9 @@
 
 - TypeScript / React
 - - AIを活用した開発ワークフロー
-  - - 音声処理とクリエイティブコーディング
+- - 音声処理とクリエイティブコーディング
    
-    - ## 📫 連絡先
+- ## 📫 連絡先
    
-    - - GitHub: [@kengo0804](https://github.com/kengo0804)
-      - - 連絡はGitHubプロフィール、Issue、またはDiscussionsからお願いします。
+- - GitHub: [@kengo0804](https://github.com/kengo0804)
+- - 連絡はGitHubプロフィール、Issue、またはDiscussionsからお願いします。
