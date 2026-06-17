@@ -14,9 +14,16 @@
 
 ## 代表作3つ
 
-- Ark Collective Landing Page: 静的HTML、CSS、JavaScriptで構築したランディングページのプロトタイプ
+- Ark Collective Landing Page: 静的HTML、CSS、JavaScriptで構築したランディングページのプロトタイプ  
+  Repo: https://github.com/kengo0804/studio-ark-hp / Live: https://arkcltv.com/
 - BPM 96 Audio Tools: 音声素材のBPM調整やレンダリングを試すPython / FFmpeg系ツール
 - marugotokeisankun: 飲食店・サービス業向けに、サービス料・消費税・クレジットカード手数料をまとめて計算するWebアプリ
+
+## デプロイ済みプロジェクト
+
+- Ark Collective Official Website  
+  Production: https://arkcltv.com/  
+  GitHub Pages: https://kengo0804.github.io/studio-ark-hp/
 
 ## 現在学習中
 
