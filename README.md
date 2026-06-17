@@ -16,7 +16,7 @@
 
 - Ark Collective Landing Page: 静的HTML、CSS、JavaScriptで構築したランディングページのプロトタイプ
 - BPM 96 Audio Tools: 音声素材のBPM調整やレンダリングを試すPython / FFmpeg系ツール
-- marugotokeisankun: 計算を手軽に扱えるようにするツール・アプリのプロトタイプ
+- marugotokeisankun: 飲食店・サービス業向けに、サービス料・消費税・クレジットカード手数料をまとめて計算するWebアプリ
 
 ## 現在学習中
 
