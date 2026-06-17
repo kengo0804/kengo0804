@@ -16,7 +16,7 @@
 
 - Ark Collective Landing Page: 静的HTML、CSS、JavaScriptで構築したランディングページのプロトタイプ
 - BPM 96 Audio Tools: 音声素材のBPM調整やレンダリングを試すPython / FFmpeg系ツール
-- GitHub Profile README: 自分の活動や関心領域を整理して伝えるプロフィールREADME
+- marugotokeisankun: 計算を手軽に扱えるようにするツール・アプリのプロトタイプ
 
 ## 現在学習中
 
